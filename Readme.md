@@ -4,4 +4,4 @@ alpine 镜像
  
  2. 修改当前语言的编码为utf-8
  
- 3. testtest
+ 3. 删除apk安装缓存
